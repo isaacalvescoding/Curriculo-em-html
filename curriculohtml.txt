@@ -1,0 +1,92 @@
+<!DOCTYPEhtml >
+< html  lang =" PT-BR " >
+
+< cabeça >
+    < meta  charset =" UTF-8 " >
+    < meta  http-equiv = " Conteúdo compatível com X-UA " =" IE=edge " >
+    < meta  name =" viewport " content =" largura=largura do dispositivo, escala inicial=1.0 " >
+    < title > Currículo Isaac </ title >
+    < link  rel =" ícone de atalho " href =" ./favicon.ico " type =" imagem/x-icon " >
+
+    < estilo >
+        corpo {
+            cor de fundo :  rgb ( 209 ,  209 ,  209 );
+        }
+
+        . apresentação {
+            cor de fundo :  rgb ( 255 ,  255 ,  255 );
+        }
+
+        # grad1 {
+            altura :  200px ; _
+            cor de fundo : vermelho;
+            imagem de fundo :  gradiente linear ( rgb ( 0 ,  8 ,  255 ) ,  rgb ( 255 ,  0 ,  0 ));
+        }
+    </ estilo >
+
+    < estilo >
+        div {
+            cor de fundo :  rgb ( 156 ,  155 ,  155 );
+        }
+    </ estilo >
+
+</ cabeça >
+
+< corpo >
+
+    < div  id =" grad1 " > </ div >
+
+    < centro >
+
+        < div  id =" apresentacao " <br> _ _
+
+            < h1 > Currículo Isaac </ h1 >
+
+            < img  src =" rango.jpg " alt =" Isaac " largura =" 200px " </ div >
+
+    </ centro >
+
+
+    </ div >
+
+    < div  id =" Identificação " >
+        <br> _ _
+        < h2 > Identificação </ h2 >
+        < ul >
+            < li > < b > E-mail: </ b > isaacasjunior@fac.pe.senac.br </ li >
+            < li > < b > Telefone: </ b > (81) 9810010001 </ li >
+            < li > < b > Endereço: </ b > Rua marechal </ li >
+
+        </ ul >
+    </ div >
+
+    < div  id =" Formação " >
+        <br> _ _
+        < h2 > Formação </ h2 >
+        < ul >
+            < li > < b > </ b > Tecnologo em ADS </ li >
+        </ ul >
+    </ div >
+
+    < div  id =" Experiência Profissional " >
+        <br> _ _
+        < h2 > Experiência Profissional </ h2 >
+        < ul >
+            < li > < b > </ b > Sem Experiência na Área </ li >
+        </ ul >
+    </ div >
+
+< centro >
+    < h2 > < b > Localização </ b > </ h2 >
+
+    
+    < iframe  src =" location.jpg " height =" 400 " width =" 600 " title =" Exemplo de iframe " > </ iframe >
+    </ centro >
+
+
+    < p > Proxima pag: < a  href =" Segundapag.html " > Sobre mim </ a > </ p >
+
+
+</ corpo >
+
+</ html >
